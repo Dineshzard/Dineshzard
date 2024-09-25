@@ -15,10 +15,7 @@ Libraries: pandas, NumPy, Matplotlib, seaborn
 Tools: Jupyter Notebooks, Git/GitHub, Excel, PowerBI
 Other: Data Visualization, Data Cleaning, Statistical Analysis
 🌱 What I'm Working On
-🔬 Carbon Market Data Analysis: Analyzing trends in the carbon credit market, including buyers and project developers. Check it out here!
-📈 Exploring how machine learning can be used to predict success rates of renewable energy projects.
-📈 GitHub Stats
-
+🔬 Carbon Market Data Analysis: Analyzing trends in the carbon credit market, including buyers and project developers.
 
 📫 How to Reach Me
 Email: zarddinesh@gmail.com
